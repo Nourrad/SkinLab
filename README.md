@@ -1,7 +1,4 @@
-# SkinLab
+# Luminella
 Final Project
 
-Skincare is an essential part of self-care, yet finding the right products and advice can be overwhelming for many. This project aims to simplify the skincare journey through an intelligent web app that caters to individual needs using advanced technology.
-The project involves creating a skincare web-app where users can describe their skin type and concerns (like acne, dryness. etc.). It helps people receive a clear description of
-what problems their skin could be facing and suggests the suitable products from well known brands to solve it and provides dietary recommendations. Users can also upload a photo of their face, allowing the app to give personalized advice. It may also suggest medical products for medical skin issues such as burns, cuts... etc.
-Additionally, we will do this using AI to analyze the uploaded photos to identify skin issues, and possibly scan product labels for harmful ingredients based on the user’s skin type. Including features for finding online/offline stores and showing nearby shops or facial clinics using location services. This addition makes the app even more user-friendly and practical.
+Luminella is an innovative web app designed to revolutionize personalized skincare for individuals aged 16 and above, regardless of gender. By analyzing users' unique skin types and concerns through an intuitive questionnaire, Luminella creates tailored skincare routines that include detailed product recommendations, usage schedules, and ingredient information. It even enables users to upload images for targeted advice, making skincare accessible and easy to navigate. With the potential to serve millions of users worldwide, Luminella aims to provide a comprehensive and user-friendly solution to the universal challenge of effective skincare.![Uploading image.png…]()
